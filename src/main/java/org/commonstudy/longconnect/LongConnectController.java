@@ -20,6 +20,7 @@ public class LongConnectController {
             Collections.synchronizedMap(new HashMap<>());
     private final long TIME_OUT = 300000;
 
+
     /**
      * 保持连接的通知访问
      * @param hsr
