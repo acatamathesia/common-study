@@ -18,6 +18,8 @@ public class InitTestDemo extends InitTestFather{
     public static void main(String[] args) {
         new InitTestDemo();
 
+
+
         int a = 0;
         {
             int b = 1;
